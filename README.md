@@ -57,7 +57,8 @@ This algorithm is a genetic algorithm for solving a Traveling Salesman Problem (
 ### Example
 Below the example of graph:
 
-![Figure_1](https://github.com/jakubbiniu/modified-travelling-salesman-problem/assets/101418523/c299c5de-3ddf-404e-b909-44a783ad6db1) 
+![Figure_1](https://github.com/jakubbiniu/modified-travelling-salesman-problem/assets/101418523/047d95a5-b076-4675-b847-4ee13ebbac72)
+
 
 The solution from brute force: 19 [3, 2, 1, 0]
 
